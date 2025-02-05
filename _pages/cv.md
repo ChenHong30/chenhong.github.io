@@ -11,17 +11,17 @@ redirect_from:
 
 Education
 ======
-* M. Phil. in The Hong Kong University of Science and Technology (Guangzhou), 2024-Present
-* M. Tech in National University of Singapore, 2023-2024
-* B.S. in Beijing Normal University - Hong Kong Baptist University United International College, 2019-2023
+* M. Phil. in Artificial Intelligence, The Hong Kong University of Science and Technology (Guangzhou), 2024-Present
+* M. Tech in Business Analysis, National University of Singapore, 2023-2024
+* B.S. in Financial Mathematics, Beijing Normal University - Hong Kong Baptist University United International College, 2019-2023
 
 Work experience
 ======
-* March 2024 - August 2024: Business Analyst Intern
-  * Tencent
-
 * June 2021 - Present: Research Assistant
   * Pintan Research Institute of Xiamen University
+
+* March 2024 - August 2024: Business Analyst Intern
+  * Tencent
 
 Publications
 ======
