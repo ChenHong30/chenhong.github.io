@@ -15,3 +15,9 @@ Education
 * MPhil in Artificial Intelligence, **[The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/)**, Guangzhou, China. 2024-2026
 
 My research domain has switched during each period of study. However, the general research interest still focuses on Artificial Intelligence.
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
