@@ -28,6 +28,6 @@ News
 
 Vistors Count
 ======
-<a href="https://info.flagcounter.com/1KNa"><img src="https://s01.flagcounter.com/map/1KNa/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+<!-- <a href="https://info.flagcounter.com/1KNa"><img src="https://s01.flagcounter.com/map/1KNa/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a> -->
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8U6qdi4ZjVDVFpPeWic6oNrqJp1T8hUf_JiTye8ij2I&cl=ffffff&w=a"></script>
+<a href='https://clustrmaps.com/site/1c47q'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=150&t=tt&d=8U6qdi4ZjVDVFpPeWic6oNrqJp1T8hUf_JiTye8ij2I&co=ffffff&ct=808080'/></a>
