@@ -2,7 +2,7 @@
 title: "A Comprehensive Survey on Deep Learning Techniques in Educational Data Mining"
 collection: publications
 category: manuscripts
-permalink: ''
+permalink: 'https://arxiv.org/abs/2309.04761'
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-09-09
 venue: 'Arxiv'
