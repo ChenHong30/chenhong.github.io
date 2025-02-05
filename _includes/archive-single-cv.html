@@ -33,8 +33,9 @@
         <a href="{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
       {% if post.venue %}
-        <a>Published in {{ post.venue }} {{ post.date }}</a>
+        <span>Published in {{ post.venue }} {{ post.date | date: "%Y-%m" }}</span>
       {% endif %}
+
     </h3>
     
     {% if post.read_time %}
