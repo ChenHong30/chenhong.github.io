@@ -30,4 +30,4 @@ Vistors Count
 ======
 <!-- <a href="https://info.flagcounter.com/1KNa"><img src="https://s01.flagcounter.com/map/1KNa/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a> -->
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=tt&d=8U6qdi4ZjVDVFpPeWic6oNrqJp1T8hUf_JiTye8ij2I&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=m&d=8U6qdi4ZjVDVFpPeWic6oNrqJp1T8hUf_JiTye8ij2I&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
