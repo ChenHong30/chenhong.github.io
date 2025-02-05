@@ -7,6 +7,6 @@ permalink: /publication/2023-09-09-paper-title-number-1
 date: 2023-09-09
 venue: 'Arxiv'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: '[https://arxiv.org/abs/2309.04761](https://arxiv.org/abs/2309.04761)'
+paperurl: 'https://arxiv.org/abs/2309.04761'
 # citation: 'Lin, Y., Chen, H., Xia, W., Lin, F., Wang, Z., & Liu, Y. (2023). A comprehensive survey on deep learning techniques in educational data mining. arXiv preprint arXiv:2309.04761.'
 ---
