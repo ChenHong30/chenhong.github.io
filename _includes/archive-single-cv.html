@@ -33,7 +33,7 @@
         <a href="{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
       {% if post.venue %}
-        {{ ' ' }}{{ post.venue }}
+        <a>Published in {{ post.venue }} {{ post.date }}</a>
       {% endif %}
     </h3>
     
