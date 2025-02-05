@@ -39,11 +39,6 @@
   }
 }
 
-.archive__item {
-  width: 500%; /* 或指定一个固定宽度 */
-  max-width: 500%;
-}
-
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
@@ -51,6 +46,9 @@
   a + a {
     opacity: 0.5;
   }
+  a {
+    white-space: nowrap;
+}
 }
 
 /* remove border*/
