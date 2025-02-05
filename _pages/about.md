@@ -24,4 +24,4 @@ Publications
 
 News
 ======
-* There is no breaking news utile my paper is accepted.
+* There is no breaking news util my paper is accepted.
