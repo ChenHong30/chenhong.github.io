@@ -21,3 +21,7 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+News
+======
+* There is no breaking news utile my paper is accepted.
