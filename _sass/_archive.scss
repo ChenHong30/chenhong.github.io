@@ -39,6 +39,11 @@
   }
 }
 
+.archive__item {
+  width: 100%; /* 或指定一个固定宽度 */
+  max-width: 100%;
+}
+
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
