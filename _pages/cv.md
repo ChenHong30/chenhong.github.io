@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+A sample [CV](../assets/CV.pdf) can be found here.
+
 Education
 ======
 * M. Phil. in Artificial Intelligence, The Hong Kong University of Science and Technology (Guangzhou), 2024-Present
