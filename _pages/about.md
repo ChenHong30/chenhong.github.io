@@ -29,6 +29,6 @@ News
 
 Vistors Count
 ======
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=8U6qdi4ZjVDVFpPeWic6oNrqJp1T8hUf_JiTye8ij2I&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=t&d=8U6qdi4ZjVDVFpPeWic6oNrqJp1T8hUf_JiTye8ij2I&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 
 <!-- <a href='https://clustrmaps.com/site/1c47q'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=a&t=m&d=8U6qdi4ZjVDVFpPeWic6oNrqJp1T8hUf_JiTye8ij2I&co=ffffff&ct=808080'/></a> -->
