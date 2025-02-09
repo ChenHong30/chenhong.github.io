@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am Chen Hong. Currently, I am studying for a Master of Philosophy in Artificial Intelligence at [HKUST(GZ)](https://www.hkust-gz.edu.cn/). I recently graduated from the Master of Technology program at NUS-ISS. My academic and professional interests include artificial intelligence, specifically in Large Language Models and its derivative applications. Now I am doing some projects related to **Efficient LLMs** and **Multimodal LLMs**.
+Hi, I am Chen Hong. Currently, I am studying for a Master of Philosophy in Artificial Intelligence at [HKUST(GZ)](https://www.hkust-gz.edu.cn/). I recently graduated from the Master of Technology program at [NUS](https://nus.edu.sg/). My academic and professional interests include artificial intelligence, specifically in Large Language Models and its derivative applications. Now I am doing some projects related to **Efficient LLMs** and **Multimodal LLMs**.
 
 Education
 ======
